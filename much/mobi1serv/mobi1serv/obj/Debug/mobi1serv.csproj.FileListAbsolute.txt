@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\mobi1serv\mobi1serv\bin\Debug\mobi1serv.exe.config
+d:\documents\visual studio 2013\Projects\mobi1serv\mobi1serv\obj\Debug\mobi1serv.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\mobi1serv\mobi1serv\bin\Debug\mobi1serv.exe
+d:\documents\visual studio 2013\Projects\mobi1serv\mobi1serv\bin\Debug\mobi1serv.pdb
+d:\documents\visual studio 2013\Projects\mobi1serv\mobi1serv\obj\Debug\mobi1serv.exe
+d:\documents\visual studio 2013\Projects\mobi1serv\mobi1serv\obj\Debug\mobi1serv.pdb
